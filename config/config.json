@@ -1,0 +1,7 @@
+{
+  "DbUsername" : "root",
+  "DbPassword" : "root",
+  "DbPort"     : "3306",
+  "DbHost"     : "127.0.0.1",
+  "DbName"     : "hology"
+}
